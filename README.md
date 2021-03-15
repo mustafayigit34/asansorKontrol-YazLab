@@ -2,4 +2,4 @@
 
 Yazlab 2.proje
 
-Proje detayları için : [Proje Raporu](https://github.com/sevkikaragol/asansorKontrol-Yazlab/blob/main/rapor.pdf)
+### Daha fazla bilgi için --> [Proje Raporu](https://github.com/mustafayigit34/asansorKontrol-Yazlab/blob/main/rapor.pdf)
